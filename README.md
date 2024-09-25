@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🖤
 
-<!--
-**joaoPaulopP9/joaoPaulopP9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Paulo
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📧
+
+ j o a o . s o usa.  c a rli  @ g mai  l
+     j oa o Pa u l  o 
+                                                      
